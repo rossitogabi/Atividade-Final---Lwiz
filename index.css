@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Literata');
+
+body{
+	
+	font-family: 'Literata', serif;
+	text-align: center;
+	
+}
+
+#b1{
+	
+	width: 1340px;
+	height: 950px;
+	margin-top: 0;
+	margin-left: auto;
+	margin-right: 100;
+	background-color: #e6adad;
+	
+}
+
+#b2{
+
+	width: 1340px;
+	height: 260px;
+	background-color: #7B68EE;
+	
+}
+
+#b3{
+	
+	width: 1340px;
+	height: 1050px;
+	background-color: #3CB371;
+	
+}
+
+h1{
+	font-size: 70px;
+}
+
+h2{
+	font-size: 20px;	
+}
+
+h3{
+	font-size: 21px;
+}
+
+p{
+	font-size: 17px;
+}
+
+.img1{
+	
+	height: 480px;
+	width: 519px;
+	
+}
+
+.img2{
+	
+	height: 350px;
+	width: 569px;
+	margin-left: 1%;
+	margin-bottom: 1%;
+}
+
+.img3{
+	
+	height: 350px;
+	width: 622px;
+	margin-left: 1%;
+	margin-bottom: 1%;
+}
+
+.img4{
+
+	height: 350px;
+	width: 738px;
+	margin-left: 1%;
+	margin-bottom: 0;
+}
+
+.img5{
+
+	height: 350px;
+	width: 467px;
+	margin-left: 1%;
+	margin-bottom: 0;
+
+}
